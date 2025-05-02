@@ -1,2 +1,2 @@
 # PracticaPVA
-//Joder que bueno es Lamine Yamal 19
+Práctica final de Programación Visual Avanzada
