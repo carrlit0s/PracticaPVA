@@ -1,0 +1,9 @@
+Si entras con el ususario de un cliente te mete en el Formulario de la carta de los burritos. Tenemos que editar eso, cuando entremos con un cliente, nos tiene que dar a elegir entre entrar al
+formulario de la carta o entrar al formulario en el que configuramos nuestro propio burrito.
+Luego dentro de cada formulario debemos poder cambiar de un formulario a otro mediante un botón
+o una etiqueta. Para hacer nuestro propio burrito que de eso no he implementado nada, el cliente podrá hacer su burrito eligiendo ingredientes por medio de 5 ComboBox de los cuales no podrá 
+repetir ingrediente y no tendrá por qué elegir 5 ingredientes. Puede por ejemplo hacerse un burrito de solo 3 ingredientes.
+De ahí podrá añadir al carrito su burrito y si se va a la carta y añade al carrito un burrito ya creado previamente se tiene que sincronizar. Es decir, tiene que haber un mismo carrito para todo.
+Además, en el formulario de la configuración de los burritos propios del cliente, deberá ponerle nombre a su burrito mediante un TextBox. Por ahora vamos con eso y los formularios de administradores
+los dejamos para más adelante. También tenemos que ver lo de la factura en excel a la hora de hacer el pago que es bastante fácil pero también tenemos que ver cómo hacemos lo de mantener un 
+historial de todos los burritos que hemos vendido. Yo lo haría almacenandolo en una tabla en la base de Datos.
